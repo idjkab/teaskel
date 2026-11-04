@@ -1,0 +1,123 @@
+{
+  "channel": "Teaskel",
+  "generated_date": "2026-11-04",
+  "top_video_ideas": [
+    {
+      "id": "dopamine-muscle-connection",
+      "rank": 1,
+      "working_title": "The Dopamine-Muscle Connection: Why You're Too Tired to Workout (And How to Fix It in 24 Hours)",
+      "alternative_titles": [
+        "Why You Have Zero Gym Motivation (It's Not Laziness, It's Neurochemistry)",
+        "How to Trick Your Brain to Love Lifting Heavy (The Dopamine Reset)",
+        "The Real Reason You Feel Exhausted Before the Gym (Fix This in 24 Hours)"
+      ],
+      "core_angle": "Most people think skipping workouts is a lack of discipline. In reality, it is a neurochemical misallocation: burning through dopamine reserves on micro-stimulations (scrolling, multitasking, high sugar) before ever stepping into the gym. By fixing the dopamine baseline and understanding neuromuscular fatigue, anyone can unlock explosive workout drive in 24 hours.",
+      "competitor_synthesis": "Combines Yellow Dude's dopamine baseline mechanics + Captain Workout's neuromuscular fatigue biology + Greekologist's stoic identity reframe.",
+      "target_audience": "Lifters, students, and desk workers aged 16-30 who genuinely want to build muscle and train consistently, but feel drained, sluggish, and unmotivated by 5 PM.",
+      "viewer_outcome": "Viewer leaves with an exact 3-step 24-hour protocol to eliminate dopamine leaks, restore central nervous system drive, and make lifting heavy feel effortless and deeply rewarding.",
+      "thumbnail_concept": {
+        "layout": "Split-screen comparison with glowing central neuro-pathway",
+        "left_side": "Slumped character staring at phone with red depleted battery and fading muscle silhouette",
+        "right_side": "Muscular glowing character gripping barbell with full neon teal battery and focused eyes",
+        "text": "TIRED TO JACKED",
+        "color_accent": "Amber Yellow vs Electric Teal"
+      },
+      "estimated_duration": "5 minutes (approx. 720-760 words)",
+      "feasibility": "High",
+      "selected": true,
+      "selection_basis": "Top performing crossover topic addressing the #1 pain point of the modern self-improvement lifter."
+    },
+    {
+      "id": "spartan-3-hour-rule",
+      "rank": 2,
+      "working_title": "The Spartan 3-Hour Rule: How Ancient Warriors Built Elite Bodies & Minds With Zero Motivation",
+      "alternative_titles": [
+        "How Spartans Trained When They Felt Lazy (The 3-Hour Discipline Protocol)",
+        "The Ancient Stoic Secret to Never Skipping a Workout",
+        "Monk Mode for Lifters: The Spartan Routine That Rewires Your Mind"
+      ],
+      "core_angle": "Spartans did not rely on pre-workout or motivational videos. They structured their day around voluntary friction blocks that forced the brain to crave physical effort.",
+      "competitor_synthesis": "Greekologist's historical stoicism + BroPump's aesthetic physical standards.",
+      "target_audience": "Men looking for ancient philosophical backing for daily discipline and mental grit.",
+      "viewer_outcome": "A practical 3-hour daily operating system for morning physical training, deep work, and evening reflection.",
+      "thumbnail_concept": {
+        "layout": "Ancient Spartan helmet overlaying modern lifter silhouette",
+        "text": "SPARTAN CODE",
+        "color_accent": "Crimson and Antique Gold"
+      },
+      "estimated_duration": "6 minutes",
+      "feasibility": "High",
+      "selected": false,
+      "selection_basis": "Strong secondary candidate for next production cycle."
+    },
+    {
+      "id": "silent-killer-muscle-growth",
+      "rank": 3,
+      "working_title": "Why Your Physique Looks the Same After 6 Months (The 'Silent Killer' of Muscle Growth)",
+      "alternative_titles": [
+        "The 1 Mistake Keeping You Skinny-Fat (Stop Lifting Like This)",
+        "Why Hard Training Isn't Building You Muscle (The Proximity to Failure Truth)",
+        "How 3 Sets Beat 20 Sets: The Biomechanics of True Hypertrophy"
+      ],
+      "core_angle": "Lifters do 20 sets of junk volume and stop 5 reps short of true mechanical tension, racking up systemic fatigue without stimulating myofibrillar hypertrophy.",
+      "competitor_synthesis": "Captain Workout's biomechanical tension diagrams + BroPump's funny yet harsh reality checks.",
+      "target_audience": "Gym goers stuck on a muscle-building plateau despite working out 4-6 days a week.",
+      "viewer_outcome": "Learn the exact formula for Reps in Reserve (RIR), eccentric stretch loading, and optimal weekly set volume.",
+      "thumbnail_concept": {
+        "layout": "Side-by-side 6-month progress mirror: 'Junk Volume' (flat chest) vs 'Effective Reps' (thick upper chest)",
+        "text": "ZERO GAINS?",
+        "color_accent": "Red X vs Green Check"
+      },
+      "estimated_duration": "5.5 minutes",
+      "feasibility": "High",
+      "selected": false,
+      "selection_basis": "Great pure fitness video for high search traffic."
+    },
+    {
+      "id": "monk-mode-dopamine-protocol",
+      "rank": 4,
+      "working_title": "The Monk Mode Dopamine Protocol: How to Fix Your Brain & Body in 14 Days",
+      "alternative_titles": [
+        "Disappear for 14 Days and Shock Everyone (The Dopamine Reset)",
+        "How to Reset Your Central Nervous System in 2 Weeks",
+        "The 14-Day Monk Mode Challenge (Full Daily Checklist)"
+      ],
+      "core_angle": "A 14-day progressive sensory and digital diet designed to lower baseline cortisol, restore natural testosterone, and supercharge workout performance.",
+      "competitor_synthesis": "Yellow Dude's habit loop mastery + Greekologist's monk mode isolation ethos.",
+      "target_audience": "Anyone overwhelmed by screen addiction, mental burnout, and scattered attention.",
+      "viewer_outcome": "A downloadable 14-day challenge calendar with 5 daily non-negotiables.",
+      "thumbnail_concept": {
+        "layout": "Character sitting in meditation with glowing green neural circuits connecting to muscular arms",
+        "text": "14-DAY RESET",
+        "color_accent": "Deep Slate and Electric Cyan"
+      },
+      "estimated_duration": "7 minutes",
+      "feasibility": "High",
+      "selected": false,
+      "selection_basis": "Excellent for high engagement, community challenges, and comments."
+    },
+    {
+      "id": "the-aesthetic-golden-ratio",
+      "rank": 5,
+      "working_title": "The 1% Muscle Hack: The Biomechanical Secret Gym Influencers Never Show You",
+      "alternative_titles": [
+        "The Golden Aesthetic Blueprint: How to Look Insane in a T-Shirt",
+        "The Only 3 Muscles You Need to Build for an Instant V-Taper",
+        "Stop Wasting Time on Bench Press: The Upper Chest & Lateral Delt Secret"
+      ],
+      "core_angle": "How targeting the 3 key illusion muscles (lateral deltoid, clavicular head, upper lats) creates an aesthetic Greek-god physique in half the time of generic bulking routines.",
+      "competitor_synthesis": "BroPump's aesthetic proportions + Captain Workout's anatomy angles + Greekologist's classical statue proportions.",
+      "target_audience": "Teens and young adults who want to look broad, aesthetic, and athletic without bulking into a puffy ball.",
+      "viewer_outcome": "The exact exercise selection, grip width, and angle adjustments to maximize V-taper aesthetics.",
+      "thumbnail_concept": {
+        "layout": "Golden ratio spiral over Greek god statue transitioning into modern animated lifter",
+        "text": "THE 1% HACK",
+        "color_accent": "Neon Amber and Emerald"
+      },
+      "estimated_duration": "5 minutes",
+      "feasibility": "High",
+      "selected": false,
+      "selection_basis": "High CTR potential, evergreen search topic."
+    }
+  ]
+}
